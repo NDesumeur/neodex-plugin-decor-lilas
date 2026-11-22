@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.decorlilas",
+  "repo": "NDesumeur/neodex-plugin-decor-lilas",
+  "version": "1.0.0",
+  "sha256": "c88af93a40498999a9561078b646bacc5e7efb374c7f5da1a0f0fef20cb3de2d",
+  "approvedAt": "2026-11-22T19:05:25.795Z",
+  "neobase": ">=4.1.0",
+  "signature": "LpEDaZSA8DWQmupSUMYUrnTjvToR0FKngifEt2p/dK8h68MGGDjpyY7jyDRgjusQoh1s8hhgXSIgOPtuKG6FCg=="
+}
